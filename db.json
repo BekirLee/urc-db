@@ -50,13 +50,6 @@
             "shortDesc": "İşə qəbul prosesi, sorğular və vizual təsvir."
         },
         {
-            "id": 8,
-            "title": "Cədvəl",
-            "icon": "icon-table",
-            "description": "İşə gəlmə, getmə və tətil vaxtlarının idarə olunması üçün təqvim. İşçilər bu bölmədən istifadə edərək, öz iş saatlarını və məzuniyyətlərini rahatlıqla izləyə bilərlər. Təqvim həmçinin iş günləri, tətil günləri və vacib şirkət tarixləri ilə əlaqəli məlumatları təqdim edir.",
-            "shortDesc": "İş saatları, məzuniyyətlər və vacib tarixlərin izlənməsi."
-        },
-        {
             "id": 9,
             "title": "Onboarding",
             "icon": "icon-dashboard",
