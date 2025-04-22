@@ -47,21 +47,21 @@
             "title": "İşə qəbul",
             "icon": "icon-work",
             "description": "Əməkdaşın nə zaman və hansı vəzifəyə qəbul olunduğunu göstərir. Həmçinin, işə qəbul prosesinin mərhələləri və işə qəbul şərtləri haqqında məlumat verir. Sistem, əməkdaşların işə qəbul sorğularını atmağa və bu sorğuların statusunu izləməyə imkan verir. Eyni zamanda, işə qəbul prosesi vizual şəkildə təqdim olunur, əməkdaşların qəbul tarixləri, vəzifələri və digər müvafiq məlumatlar qrafik olaraq göstərilir.",
-            "shortDesc": "Əməkdaşın işə alınması üçün hazırlanmış 'yeni işçi sorğusu' və sorğu atıldıqdan sonra onun vizullaşdırılması ."
+            "shortDesc": "Əməkdaşın işə alınması üçün hazırlanmış 'yeni işçi sorğusu' və sorğu göndərildikdən sonra onun vizullaşdırılması ."
         },
         {
             "id": 9,
             "title": "Onboarding",
             "icon": "icon-dashboard",
             "description": "Yeni əməkdaşların işə uyğunlaşdırılması və şirkətə inteqrasiya prosesi üçün rəhbərlik. Bu proses, yeni işçilərə şirkət haqqında məlumat vermək, onların iş mühitinə alışmalarını sürətləndirmək və işə başlamağa hazırlamaq məqsədini güdür. Həmçinin onboarding forması vasitəsilə yeni işçilər öz məlumatlarını təqdim edə bilərlər.",
-            "shortDesc": "Yeni əməkdaşların uyğunlaşdırılması və onboarding formasının asan hazırlanması üçün hazırlanmış funksianallıq."
+            "shortDesc": "Yeni əməkdaşların uyğunlaşdırılması və onboarding formasının asan hazırlanması üçün funksionallıq."
         },
         {
             "id": 10,
-            "title": "İstifadə təlimatı (ŞK)",
+            "title": "İstifadə təlimatı",
             "icon": "icon-info",
             "description": "Saytın necə istifadə ediləcəyini izah edən təlimat bölməsi. Bu bölmə, istifadəçilərin müxtəlif funksiyaları necə rahatlıqla istifadə edə biləcəyini izah edir və onların iş proseslərini asanlaşdırır. Yeni təlimatlar və funksionallıqlar haqqında məlumatlar burada təqdim olunur.",
-            "shortDesc": "Saytın istifadə təlimatları və yeni təlimatlar."
+            "shortDesc": "Saytın necə istifadəsi haqda məlumatlar."
         },
         {
             "id": 11,
