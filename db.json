@@ -1,88 +1,88 @@
 {
-    "features": [
-        {
-            "id": 1,
-            "title": "Daxili kommunikasiya",
-            "icon": "icon-autorenew",
-            "description": "Əməkdaşların sayt üzərindən rahat və effektiv kommunikasiya qurmasını təmin edir. Bu, əməkdaşlar arasında məlumat mübadiləsi, sualların cavablandırılması və gündəlik iş axınının sürətləndirilməsi üçün effektiv bir alətdir.",
-            "shortDesc": "Şirkət daxili rahat kommunikasiya.Əməkdaşların göndərdiyi mesajlara rahat çatmaq."
-        },
-        {
-            "id": 2,
-            "title": "Sorğular",
-            "icon": "icon-question_answer",
-            "description": "Əməkdaşlarla və proseslərlə bağlı verilən sorğulara nəzarət etmək və nəticələri təhlil etmək üçün nəzərdə tutulub. Hər bir əməkdaş, sorğularda iştirak edərək fikirlərini bildirmək imkanı əldə edir. Sistem eyni zamanda filtrələmə funksionallığı təqdim edir ki, bu da istifadəçilərə gələn və gedən sorğuları asanlıqla ayırd etməyə imkan verir. Sorğu cavablarının qəbul və emalı 'Open Voice' sistemi vasitəsilə həyata keçirilir, bu da sürətli və şəffaf ünsiyyət imkanı yaradır.",
-            "shortDesc": "Asanlıqla hər cür sorğuların göndərilməsi və oxunması.Atılan sorğuların müddətini seçmək."
-        },
-        {
-            "id": 3,
-            "title": "Əməkdaşlar",
-            "icon": "icon-card_membership",
-            "description": "Şirkətdə kimlərlə çalışıldığını göstərən əməkdaş siyahısı və onların əlaqə məlumatları. Bu məlumatlar həm işgüzar əlaqələri, həm də əməkdaşların bacarıq və təcrübələrini asanlıqla tapmağı təmin edir.",
-            "shortDesc": "Əməkdaş siyahısa asanlıqla çatmaq və adlar üzrə axtarış funskianallığı."
-        },
-        {
-            "id": 4,
-            "title": "Təlimatlar",
-            "icon": "icon-settings_backup_restore",
-            "description": "Bütün əməkdaşlara göndərilən məlumatlar və rəhbərlik göstərişlərini əhatə edir. Təlimatlar işçi heyətinin gündəlik iş fəaliyyətini düzgün yönləndirmək və şirkət siyasətinə uyğun hərəkət etmələrini təmin etmək üçün hazırlanır.",
-            "shortDesc": "Mövcud və yeni təlimatların idarə olunması və paylaşılması."
-        },
-        {
-            "id": 5,
-            "title": "Təşkilat",
-            "icon": "icon-class",
-            "description": "Şirkətin təşkilati quruluşu və bölmələri haqqında ətraflı məlumat verir. Hər bir bölmənin məsuliyyət sahələri və rəhbərlik strukturunu izah edir, əməkdaşların şirkət içi əlaqələrini aydınlaşdırır. Sistem həmçinin əməkdaş zəncirini vizual şəkildə təqdim edir, fərdi əməkdaşlar haqqında detallı məlumat əldə etməyə və onların iş növünü müəyyən etməyə imkan yaradır.",
-            "shortDesc": "Təşkilati struktur, əməkdaş zənciri və onların vizuallaşdırlımış mini halı."
-        },
-        {
-            "id": 6,
-            "title": "Şəxsi sənədlər",
-            "icon": "icon-newspaper-o",
-            "description": "Əməkdaşların şəxsi sənədlərinin saxlanıldığı və qorunduğu bölmə. İşçi ilə əlaqəli şəxsi məlumatlar, müqavilələr, diplomlar və digər sənədlər burada təhlükəsiz şəkildə qorunur. Eyni zamanda bu sənədlər vizual şəkildə təqdim olunur ki, istifadəçilər onları daha rahat nəzərdən keçirə və idarə edə bilsinlər.",
-            "shortDesc": "Şəxsi sənədlərin təhlükəsiz saxlanması və vizual təqdimatı."
-        },
-        {
-            "id": 7,
-            "title": "İşə qəbul",
-            "icon": "icon-work",
-            "description": "Əməkdaşın nə zaman və hansı vəzifəyə qəbul olunduğunu göstərir. Həmçinin, işə qəbul prosesinin mərhələləri və işə qəbul şərtləri haqqında məlumat verir. Sistem, əməkdaşların işə qəbul sorğularını atmağa və bu sorğuların statusunu izləməyə imkan verir. Eyni zamanda, işə qəbul prosesi vizual şəkildə təqdim olunur, əməkdaşların qəbul tarixləri, vəzifələri və digər müvafiq məlumatlar qrafik olaraq göstərilir.",
-            "shortDesc": "Əməkdaşın işə alınması üçün hazırlanmış 'yeni işçi sorğusu' və sorğu göndərildikdən sonra onun vizullaşdırılması ."
-        },
-        {
-            "id": 9,
-            "title": "Onboarding",
-            "icon": "icon-dashboard",
-            "description": "Yeni əməkdaşların işə uyğunlaşdırılması və şirkətə inteqrasiya prosesi üçün rəhbərlik. Bu proses, yeni işçilərə şirkət haqqında məlumat vermək, onların iş mühitinə alışmalarını sürətləndirmək və işə başlamağa hazırlamaq məqsədini güdür. Həmçinin onboarding forması vasitəsilə yeni işçilər öz məlumatlarını təqdim edə bilərlər.",
-            "shortDesc": "Yeni əməkdaşların uyğunlaşdırılması və onboarding formasının asan hazırlanması üçün funksionallıq."
-        },
-        {
-            "id": 10,
-            "title": "İstifadə təlimatı",
-            "icon": "icon-info",
-            "description": "Saytın necə istifadə ediləcəyini izah edən təlimat bölməsi. Bu bölmə, istifadəçilərin müxtəlif funksiyaları necə rahatlıqla istifadə edə biləcəyini izah edir və onların iş proseslərini asanlaşdırır. Yeni təlimatlar və funksionallıqlar haqqında məlumatlar burada təqdim olunur.",
-            "shortDesc": "Saytın necə istifadəsi haqda məlumatlar."
-        },
-        {
-            "id": 11,
-            "title": "Təqvim",
-            "icon": "icon-date_range",
-            "description": "Vacib tarixlər və tədbirləri izləmək üçün təqvim. Bu bölmə işçilərə tədbirləri öncədən planlaşdırmağa, vacib tarixi yaddan çıxarmamağa kömək edir. Həmçinin, işçilər tərəfindən təqvimə əlavə edilən şəxsi və işlə bağlı vacib tarixlər də burada görünə bilər. İş günləri, qeyri-iş günləri və şirkətə dair digər vacib günlər burada əks olunur.",
-            "shortDesc": "Vacib tarixlər və tədbirlərin planlaşdırılması."
-        },
-        {
-            "id": 12,
-            "title": "Şəxsi kabinet",
-            "icon": "icon-home",
-            "description": "Əməkdaş haqqında şəxsi məlumatlar: maaş, vəzifə, işə qəbul tarixi, ailə vəziyyəti və digər şəxsi məlumatları ehtiva edir. Bu bölmə əməkdaşın öz məlumatlarına asanlıqla daxil olub onları yeniləməsinə imkan verir. Həmçinin, əməkdaşların şəxsi sənədlərini qorumaq və izləmək mümkündür.",
-            "shortDesc": "Əməkdaşın şəxsi məlumatları ,onun haqda verilən əmrlər, əmək haqqı vəs. məlumatlar."
-        },
-        {
-            "id": 13,
-            "title": "Menecer",
-            "icon": "icon-male",
-            "description": "Şirkətdəki menecerlərlə bağlı məlumatların yer aldığı bölmə. Bu bölmədə menecerlərin əlaqə məlumatları, məsuliyyət sahələri və şirkət içindəki funksiyaları haqqında ətraflı məlumat təqdim olunur. Şirkətə dair menecerlərin bütün əsas məlumatları burada təqdim edilir.",
-            "shortDesc": "Menecerler siyahısa asanlıqla çatmaq və adlar üzrə axtarış funskianallığı."
-        }
-    ]
+  "features": [
+    {
+      "id": 1,
+      "title": "Daxili kommunikasiya",
+      "icon": "icon-autorenew",
+      "description": "Əməkdaşların sayt üzərindən rahat və effektiv kommunikasiya qurmasını təmin edir. Bu, əməkdaşlar arasında məlumat mübadiləsi, sualların cavablandırılması və gündəlik iş axınının sürətləndirilməsi üçün effektiv bir alətdir.",
+      "shortDesc": "Şirkət daxili rahat kommunikasiya.Əməkdaşların göndərdiyi mesajlara rahat çatmaq."
+    },
+    {
+      "id": 2,
+      "title": "Sorğular",
+      "icon": "icon-question_answer",
+      "description": "Əməkdaşlarla və proseslərlə bağlı verilən sorğulara nəzarət etmək və nəticələri təhlil etmək üçün nəzərdə tutulub. Hər bir əməkdaş, sorğularda iştirak edərək fikirlərini bildirmək imkanı əldə edir. Sistem eyni zamanda filtrələmə funksionallığı təqdim edir ki, bu da istifadəçilərə gələn və gedən sorğuları asanlıqla ayırd etməyə imkan verir. Sorğu cavablarının qəbul və emalı 'Open Voice' sistemi vasitəsilə həyata keçirilir, bu da sürətli və şəffaf ünsiyyət imkanı yaradır.",
+      "shortDesc": "Asanlıqla hər cür sorğuların göndərilməsi və oxunması.Atılan sorğuların müddətini seçmək."
+    },
+    {
+      "id": 3,
+      "title": "Əməkdaşlar",
+      "icon": "icon-card_membership",
+      "description": "Şirkətdə kimlərlə çalışıldığını göstərən əməkdaş siyahısı və onların əlaqə məlumatları. Bu məlumatlar həm işgüzar əlaqələri, həm də əməkdaşların bacarıq və təcrübələrini asanlıqla tapmağı təmin edir.",
+      "shortDesc": "Əməkdaş siyahısa asanlıqla çatmaq və adlar üzrə axtarış funskianallığı."
+    },
+    {
+      "id": 4,
+      "title": "Təlimatlar",
+      "icon": "icon-settings_backup_restore",
+      "description": "Bütün əməkdaşlara göndərilən məlumatlar və rəhbərlik göstərişlərini əhatə edir. Təlimatlar işçi heyətinin gündəlik iş fəaliyyətini düzgün yönləndirmək və şirkət siyasətinə uyğun hərəkət etmələrini təmin etmək üçün hazırlanır.",
+      "shortDesc": "Mövcud və yeni təlimatların idarə olunması və paylaşılması."
+    },
+    {
+      "id": 5,
+      "title": "Təşkilat",
+      "icon": "icon-class",
+      "description": "Şirkətin təşkilati quruluşu və bölmələri haqqında ətraflı məlumat verir. Hər bir bölmənin məsuliyyət sahələri və rəhbərlik strukturunu izah edir, əməkdaşların şirkət içi əlaqələrini aydınlaşdırır. Sistem həmçinin əməkdaş zəncirini vizual şəkildə təqdim edir, fərdi əməkdaşlar haqqında detallı məlumat əldə etməyə və onların iş növünü müəyyən etməyə imkan yaradır.",
+      "shortDesc": "Təşkilati struktur, əməkdaş zənciri və onların vizuallaşdırlımış mini halı."
+    },
+    {
+      "id": 6,
+      "title": "Şəxsi sənədlər",
+      "icon": "icon-newspaper-o",
+      "description": "Əməkdaşların şəxsi sənədlərinin saxlanıldığı və qorunduğu bölmə. İşçi ilə əlaqəli şəxsi məlumatlar, müqavilələr, diplomlar və digər sənədlər burada təhlükəsiz şəkildə qorunur. Eyni zamanda bu sənədlər vizual şəkildə təqdim olunur ki, istifadəçilər onları daha rahat nəzərdən keçirə və idarə edə bilsinlər.",
+      "shortDesc": "Şəxsi sənədlərin təhlükəsiz saxlanması və vizual təqdimatı."
+    },
+    {
+      "id": 7,
+      "title": "İşə qəbul",
+      "icon": "icon-work",
+      "description": "Əməkdaşın nə zaman və hansı vəzifəyə qəbul olunduğunu göstərir. Həmçinin, işə qəbul prosesinin mərhələləri və işə qəbul şərtləri haqqında məlumat verir. Sistem, əməkdaşların işə qəbul sorğularını atmağa və bu sorğuların statusunu izləməyə imkan verir. Eyni zamanda, işə qəbul prosesi vizual şəkildə təqdim olunur, əməkdaşların qəbul tarixləri, vəzifələri və digər müvafiq məlumatlar qrafik olaraq göstərilir.",
+      "shortDesc": "Əməkdaşın işə alınması üçün hazırlanmış 'yeni işçi sorğusu' və sorğu göndərildikdən sonra onun vizullaşdırılması ."
+    },
+    {
+      "id": 9,
+      "title": "Onboarding",
+      "icon": "icon-dashboard",
+      "description": "Yeni əməkdaşların işə uyğunlaşdırılması və şirkətə inteqrasiya prosesi üçün rəhbərlik. Bu proses, yeni işçilərə şirkət haqqında məlumat vermək, onların iş mühitinə alışmalarını sürətləndirmək və işə başlamağa hazırlamaq məqsədini güdür. Həmçinin onboarding forması vasitəsilə yeni işçilər öz məlumatlarını təqdim edə bilərlər.",
+      "shortDesc": "Yeni əməkdaşların uyğunlaşdırılması və onboarding formasının asan hazırlanması üçün funksionallıq."
+    },
+    {
+      "id": 10,
+      "title": "İstifadə təlimatı",
+      "icon": "icon-info",
+      "description": "Saytın necə istifadə ediləcəyini izah edən təlimat bölməsi. Bu bölmə, istifadəçilərin müxtəlif funksiyaları necə rahatlıqla istifadə edə biləcəyini izah edir və onların iş proseslərini asanlaşdırır. Yeni təlimatlar və funksionallıqlar haqqında məlumatlar burada təqdim olunur.",
+      "shortDesc": "Saytın necə istifadəsi haqda məlumatlar."
+    },
+    {
+      "id": 11,
+      "title": "Təqvim",
+      "icon": "icon-date_range",
+      "description": "Vacib tarixlər və tədbirləri izləmək üçün təqvim. Bu bölmə işçilərə tədbirləri öncədən planlaşdırmağa, vacib tarixi yaddan çıxarmamağa kömək edir. Həmçinin, işçilər tərəfindən təqvimə əlavə edilən şəxsi və işlə bağlı vacib tarixlər də burada görünə bilər. İş günləri, qeyri-iş günləri və şirkətə dair digər vacib günlər burada əks olunur.",
+      "shortDesc": "Vacib tarixlər və tədbirlərin planlaşdırılması."
+    },
+    {
+      "id": 12,
+      "title": "Şəxsi kabinet",
+      "icon": "icon-home",
+      "description": "Əməkdaş haqqında şəxsi məlumatlar: maaş, vəzifə, işə qəbul tarixi, ailə vəziyyəti və digər şəxsi məlumatları ehtiva edir. Bu bölmə əməkdaşın öz məlumatlarına asanlıqla daxil olub onları yeniləməsinə imkan verir. Həmçinin, əməkdaşların şəxsi sənədlərini qorumaq və izləmək mümkündür.",
+      "shortDesc": "Əməkdaşın şəxsi məlumatları ,onun haqda verilən əmrlər, əmək haqqı vəs. məlumatlar."
+    },
+    {
+      "id": 13,
+      "title": "Menecer",
+      "icon": "icon-male",
+      "description": "Şirkətdəki menecerlərlə bağlı məlumatların yer aldığı bölmə. Bu bölmədə menecerlərin əlaqə məlumatları, məsuliyyət sahələri və şirkət içindəki funksiyaları haqqında ətraflı məlumat təqdim olunur. Şirkətə dair menecerlərin bütün əsas məlumatları burada təqdim edilir.",
+      "shortDesc": "Menecerler siyahısa asanlıqla çatmaq və adlar üzrə axtarış funskianallığı."
+    }
+  ]
 }
